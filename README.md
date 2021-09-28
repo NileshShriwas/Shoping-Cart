@@ -5,7 +5,7 @@
 
 # Project Title
 
-Responsive Gym website
+Responsive Fruit Store
 
 ## 1. Demo Website
 
