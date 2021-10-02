@@ -1,4 +1,4 @@
-## Shoping Cart
+## Shopping Cart
 
 ![Anushka Web](Home.png)
 ![Anushka Web](Cart.png)
